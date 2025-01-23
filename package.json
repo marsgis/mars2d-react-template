@@ -1,6 +1,6 @@
 {
   "name": "mars2d-react-template",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "Mars2D平台,Vue最简项目模版",
   "scripts": {
     "dev": "vite",
@@ -12,7 +12,7 @@
     "lint": "eslint ./src/**/*.{js,jsx,ts,tsx} --fix"
   },
   "dependencies": {
-    "mars2d": "~3.2.0",
+    "mars2d": "~3.3.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
