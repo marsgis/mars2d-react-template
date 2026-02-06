@@ -77,7 +77,7 @@ npm install mars2d   //或  cnpm install mars2d   或  yarn add mars2d
  > 场景配置文件：`public\config\config.json`
 
 ```javascript
-import "mars2d/dist/mars2d.css";
+import "mars2d/mars2d.css";
 import * as mars2d from "mars2d";
 ```
 

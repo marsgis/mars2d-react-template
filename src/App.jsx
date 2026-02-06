@@ -4,7 +4,7 @@ import "leaflet/dist/leaflet.css"
 import "leaflet"
 
 // 使用免费开源版本
-import "mars2d/dist/mars2d.css"
+import "mars2d/mars2d.css"
 import * as mars2d from "mars2d"
 
 import "./style.css"
