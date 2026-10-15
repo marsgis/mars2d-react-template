@@ -2,7 +2,7 @@
 <img src="http://mars2d.cn/logo.png" width="300px" />
 </p>
 
-<p align="center">基于 Vue3.x + Vite 的 Mars2D🌎最简项目模板</p>
+<p align="center">基于 React + Vite 的 Mars2D🌎最简项目模板</p>
 
 
 <p align="center">
@@ -17,22 +17,24 @@
 </a>
 </p>
 
- [**English**](./README_EN.md) |[**中文**](./README.md) 
 
 
 ## 建议环境配置
 
 1. 推荐使用 Visual Studio Code 编辑器
-2. 推荐安装 ESlint、Volar 插件（如果已经安装Vetur插件，需要禁用）并将格式化工具设置为eslint （settings.json配置如下）
+2. 推荐安装 ESLint 插件并将格式化工具设置为 ESLint（settings.json 配置如下）
 
 ```json
-"[vue]": {
+"[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+},
+"[javascriptreact]": {
     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
 },
 "[typescript]": {
     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
 },
-"[javascript]": {
+"[typescriptreact]": {
     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
 },
 ```
